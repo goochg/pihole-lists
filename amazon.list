@@ -1,0 +1,7 @@
+# list for blocking items spotted on the amazon fire devices
+# created: 22/06/2020
+
+#amazon
+0.0.0.0 arcus-uswest.amazon.com
+0.0.0.0 dp-gw-na.amazon.com
+0.0.0.0 cognito-identity.us-east-1.amazonaws.com
