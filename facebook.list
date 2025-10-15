@@ -1,7 +1,35 @@
-! Blocking facebook 
-!
-||facebook.com^
-||facebook.net^
-||fbcdn.net^
-||fbsbx.com^
-||messenger.com^
+# Facebook core domains
+facebook.com
+www.facebook.com
+m.facebook.com
+web.facebook.com
+touch.facebook.com
+business.facebook.com
+developers.facebook.com
+
+# Facebook tracking / APIs
+connect.facebook.net
+graph.facebook.com
+api.facebook.com
+edge-chat.facebook.com
+b-graph.facebook.com
+b-api.facebook.com
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
+video.xx.fbcdn.net
+
+# Facebook mobile / CDN domains
+fbcdn.net
+fbcdn.com
+messenger.com
+www.messenger.com
+messenger.xx.fbcdn.net
+
+# Misc / regional domains
+facebook.net
+fb.com
+fbsbx.com
+fb.me
+fbcdn-dragon-a.akamaihd.net
+fbcdn-profile-a.akamaihd.net
+fbcdn-video-a.akamaihd.net
